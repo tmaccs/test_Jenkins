@@ -1,7 +1,7 @@
 """
 Get geohash codes of current and the 8 around coordinates.
 Used Geohash.
-Test Jenkins1
+Test Jenkins2
 Implement by Bryan Yang
 """
 import Geohash
