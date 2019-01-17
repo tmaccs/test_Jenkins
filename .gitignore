@@ -1,0 +1,15 @@
+.idea/
+*.pyc
+*.log
+*.pid
+__pycache__/
+.cache/
+.tox
+*.egg-info
+.coverage
+.pytest_cache/
+deploy/*.retry
+coverage.xml
+xunit.xml
+dist
+build
